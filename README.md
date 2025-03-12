@@ -5,3 +5,5 @@ Prerequisites:
 
 Instructions:
 - follow the terminal commands sql file 
+
+CSV from https://www.kaggle.com/datasets/justinas/nba-players-data
